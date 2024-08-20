@@ -123,11 +123,11 @@ skills:
       - name: Jogging
         description: ''
         percent: 90
-        icon: cat
+        icon: jogging.svg
       - name: Ping Pong
         description: ''
         percent: 85
-        icon: cat
+        icon: pingpong
       - name: Reading
         description: ''
         percent: 80
