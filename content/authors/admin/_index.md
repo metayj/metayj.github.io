@@ -133,15 +133,15 @@ skills:
       - name: Jogging
         description: ''
         percent: 90
-        icon: jogging
+        icon: cat
       - name: Ping Pong
         description: ''
         percent: 85
-        icon: pingpong
+        icon: cat
       - name: Reading
         description: ''
         percent: 80
-        icon: books
+        icon: cat
 
 languages:
   - name: English
