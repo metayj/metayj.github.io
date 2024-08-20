@@ -133,15 +133,15 @@ skills:
       - name: Jogging
         description: ''
         percent: 90
-        icon: assets/media/icons/jogging.svg
+        icon: jogging
       - name: Ping Pong
         description: ''
         percent: 85
-        icon: assets/media/icons/pingpong.svg
+        icon: pingpong
       - name: Reading
         description: ''
         percent: 80
-        icon: assets/media/icons/books.svg
+        icon: books
 
 languages:
   - name: English
