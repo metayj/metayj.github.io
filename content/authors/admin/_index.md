@@ -145,12 +145,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Postgraduate Admission Scholarship 
+    date: '2021'
+    awarder: Tongji University
   - title: Triple-A Student Scholarship 
-    url: 
-    date: '2018-2020'
+    date: '2018-2019'
     awarder: Nanjing Agriculture University
-    icon: 
-    summary:
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #     date: '2023-07-01'
