@@ -59,7 +59,14 @@ education:
     date_end: 2024-09-20
     summary: |
       GPA: 4.52/5.0
-      Thesis: _A high-definition map data information interaction method for assisted autonomous driving_. Supervised by Prof. Wei Huang(https://huangweibuct.github.io/weihuang.github.io/) and Prof. Chun Liu.
+
+      Courses included:
+      - Travel behavior analysis
+      - Advanced statistical and econometric methods
+      - Data mining
+
+
+      Thesis: _A high-definition map data information interaction method for assisted autonomous driving_. Supervised by Prof. Wei Huang and Prof. Chun Liu.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -71,9 +78,11 @@ education:
       GPA: 3.26/4.5
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced mathematics
+      - Linear algebra
+      - Intelligent transportation system
+      - Transportation planning and design
+      - C language programming
 
 # work:
   # - position: Director of Cloud Infrastructure
