@@ -84,6 +84,9 @@ education:
       - Transportation planning and design
       - C language programming
 
+
+      Thesis: _Algorithm design of vehicle routing problem based on deep reinforcement learning_. Supervised by Assoc. Prof. Yang Liu.
+
 # work:
   # - position: Director of Cloud Infrastructure
   #   company_name: GenCoin
