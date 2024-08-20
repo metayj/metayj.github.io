@@ -59,7 +59,7 @@ education:
     date_end: 2024-09-20
     summary: |
       GPA: 4.52/5.0
-      Thesis on _High-definition map information interaction approach_. Supervised by [Prof Wei Huang](https://huangweibuct.github.io/weihuang.github.io/). Presented paper at 1 ISPRS Week conferences with the contributions being published in 1 Chinese journal.
+      Thesis: _A high-definition map data information interaction method for assisted autonomous driving_. Supervised by Prof. Wei Huang(https://huangweibuct.github.io/weihuang.github.io/) and Prof. Chun Liu.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
