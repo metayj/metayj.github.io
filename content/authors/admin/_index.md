@@ -123,15 +123,15 @@ skills:
       - name: Jogging
         description: ''
         percent: 90
-        icon: ☕️
+        icon: cat
       - name: Ping Pong
         description: ''
         percent: 85
-        icon: ☕️
+        icon: cat
       - name: Reading
         description: ''
         percent: 80
-        icon: ☕️
+        icon: cat
 
 languages:
   - name: English
