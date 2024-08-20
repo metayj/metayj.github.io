@@ -183,4 +183,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently in the third year year at [Tongji University](https://en.tongji.edu.cn/p/#/), pursuing a Master of Science in Urban Mobility within the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm). [*Sep,2021-Sep,2024*]
+
+Before my journey at TJU, I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agriculture University](https://english.njau.edu.cn/), where I obtained my Bachelor's degree of Engineering in Transportation. During my years there, I had the privilege of exploring the Route Planning Problems using deeplearning algorithms, which contributed to my bachelor's thesis and earned a nomination for Best Thesis. [*Sep,2017-Jul,2021*]
+
+At TJU, the Urban Mobility Institute is an interdisciplinary institute. With my background in Transportation, and under the guidance of several professors from the [College of Surveying and Geo-informatics](https://celiang.tongji.edu.cn/english/Home.htm) at Tongji University and the [School of Resource and Environmental Sciences](https://sres.whu.edu.cn/English/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), I was responsible for tackling and completing key research components of a critical R&D project. This experience led me to shift my focus to the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction.
