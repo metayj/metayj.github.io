@@ -9,7 +9,7 @@ date: "2024-04-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-20T00:00:00Z"
+publishDate: "2024-05-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,23 +17,23 @@ publishDate: "2025-05-20T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Chinese Society for Geodesy Photogrammetry and Cartography"
+# publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: (1) This document specifies the basic requirements, interaction modes, real-time road information exchange content, and vehicle dynamic information exchange content for high-definition map information interaction in autonomous driving. (2) This document is applicable to the information exchange of high-definition maps in autonomous driving.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This is a group standard of Chinese Society for Geodesy Photogrammetry and Cartography, led by Tongji University.
 
 # tags:
-# - Large Language Models
+# - HD Map Information Interaction
 
 featured: false
 
 links:
 - name: Custom Link
   url: https://www.csgpc.org/detail/23300.html
-url_pdf: 
+url_pdf: preprint/standard.pdf
 url_code: ''
 url_dataset: '#'
 url_poster: '#'
@@ -45,7 +45,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**]()'
   focal_point: ""
   preview_only: false
 
