@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: paper.pdf
+url_pdf: content/publication/journal-paper/paper.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
