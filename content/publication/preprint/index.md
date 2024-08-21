@@ -1,17 +1,20 @@
 ---
-title: "An example preprint / working paper"
+title: "Dynamic Data Interaction Patterns and Contents of High Definition Maps for Autonomous Driving."
 authors:
+- Chun Liu
+- Wei Huang
 - admin
-date: "2019-04-07T00:00:00Z"
+- et al
+date: "2024-04-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-05-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["standard"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
