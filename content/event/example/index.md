@@ -12,9 +12,9 @@ address:
   postcode: ''
   country: Egypt
 
-summary: An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps.
+summary: An Oral Presentation on ISPRS Geospatial Week 2023, Mobile Mapping Technologies4, Mobile Mapping Technologies and HD Maps.
 
-abstract: High definition (HD) maps play a very important role in the realization of autonomous driving technology. It assists self-driving vehicles to efficiently and safely complete a series of driving decisions and route planning by virtue of having most of the accurate and reliable prior information in the road environment. 
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
