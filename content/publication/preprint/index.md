@@ -22,21 +22,21 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Large Language Models
+# tags:
+# - Large Language Models
 
 featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: https://www.csgpc.org/detail/23300.html
+url_pdf: 
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
-url_project: ''
+url_project: 'https://mp.weixin.qq.com/s/8VTXW9XaHA1ClKl1xKWBNA'
 url_slides: ''
-url_source: '#'
+url_source: 'https://www.csgpc.org/detail/23300.html'
 url_video: '#'
 
 # Featured image
@@ -62,10 +62,5 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work is driven by the results in my [previous paper](/publication/journal-article/) on HD Map.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
