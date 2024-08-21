@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: HD Map Information Interaction
+date: 2024-07-20
+external_link: https://github.com/yanjie99/HDMapII
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HD Map
+  - Infromation Interaction
+  - Key R&D Project
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+We introduce HDMapII, a novel approach to information interaction for connected autonomous vehicles empowered by high-definition maps. HDMapII consists of five main components: the database for HD map information management, the information interaction modes between autonomous driving vehicle and HD map, the communication methods for various types of dynamic information within HD map information database, the information communication protocol applied at different interaction modes and the approach to achieving a complete HD map information interaction process.
 
 <!--more-->
