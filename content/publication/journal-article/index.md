@@ -31,6 +31,8 @@ abstract: Objectives High definition（HD） map plays an important role in auto
 # Summary. An optional shortened abstract.
 Keywords: high definition map, self-driving, dynamic information, information interaction
 
+featured: true
+
 tags:
 - Source Themes
 featured: false
