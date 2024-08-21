@@ -4,7 +4,7 @@ authors:
 - Chun Liu
 - Wei Huang
 - admin
-- et al
+- et al.
 date: "2024-04-18T00:00:00Z"
 doi: ""
 
