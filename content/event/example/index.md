@@ -63,5 +63,5 @@ projects:
   - example
 ---
 
-I made a presentaion about our group recently research on HD Map Information Interaction at the branch venue of Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps, on 4th September, 2023. The below figure shows the conference site at that time.
+I made a presentaion about our group recently research on HD Map Information Interaction at the branch venue of [Mobile Mapping Technologies 4: Mobile Mapping Technologies and HD Maps](https://gsw2023.com/index.php/project/mmt-and-hd-maps-mobile-mapping-technologies-and-hd-maps/), on 4th September, 2023. The below figure shows the conference site at that time.
 ![alt text](image.png)
