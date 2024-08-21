@@ -28,10 +28,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: High definition (HD) maps play a very important role in the realization of autonomous driving technology. It assists self-driving vehicles to efficiently and safely complete a series of driving decisions and route planning by virtue of having most of the accurate and reliable prior information in the road environment. With the continuous change of technology, there are higher requirements for the accuracy, richness and freshness of the information stored in the HD map, so as to assist the practical application of automatic driving technology. However, current research related to HD maps mainly focuses on static information in the road environment. Since there is a large amount of complex, variable and uncertain dynamic information in the road environment, it can be used as prior knowledge for self-driving to make better decisions. Therefore, the research focus of this paper is on the dynamic information. We propose to use HD map as an information system - high definition map information system (HDMIS) - to assist autonomous driving vehicles. We design the specific content of dynamic information in the HDMIS, and develop an information interaction approach based on the vehicle end of the self-driving car and the HDMIS cloud as the interactive subject of dynamic information. In the experiment, we design and build three types of specific traffic scenarios on the simulation platform, and verify the effectiveness of the interaction approach by using the database to perform information interaction between different ports. The results show that our interaction approach can meet the storage and release of dynamic information by HDMIS to a certain extent, and can provide a large amount of dynamic information for autonomous vehicles to help them complete subsequent driving decisions and planning.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Large Language Models
@@ -45,13 +45,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/861/2023/'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
