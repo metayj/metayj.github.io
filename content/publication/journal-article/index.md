@@ -33,8 +33,8 @@ Keywords: high definition map, self-driving, dynamic information, information in
 
 
 tags:
-- Source Themes
-featured: false
+- HD Map Information Interaction 
+featured: true
 
 # links:
 # - name: ""
