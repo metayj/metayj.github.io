@@ -64,5 +64,4 @@ projects:
 ---
 
 I made a presentaion about our group recently research on HD Map Information Interaction at the branch venue of Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps, on 4th September, 2023. The below figure shows the conference site at that time.
-
 ![alt text](image.png)
