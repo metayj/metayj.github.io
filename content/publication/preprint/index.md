@@ -33,7 +33,7 @@ featured: false
 links:
 - name: Custom Link
   url: https://www.csgpc.org/detail/23300.html
-url_pdf: preprint/standard.pdf
+url_pdf: publication/preprint/standard.pdf
 url_code: ''
 url_dataset: '#'
 url_poster: '#'
