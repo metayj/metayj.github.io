@@ -31,7 +31,6 @@ abstract: Objectives High definition（HD） map plays an important role in auto
 # Summary. An optional shortened abstract.
 Keywords: high definition map, self-driving, dynamic information, information interaction
 
-featured: true
 
 tags:
 - Source Themes
@@ -40,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166'
+url_pdf: paper.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -75,8 +74,3 @@ slides: example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
