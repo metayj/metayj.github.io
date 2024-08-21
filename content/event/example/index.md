@@ -6,11 +6,11 @@ event_url: https://gsw2023.com/
 
 location: Cairo, Egypt
 address:
-  street: InterContinental Cairo Semiramis
-  city: Cairo
+  street: 'InterContinental Cairo Semiramis'
+  city: 'Cairo'
   region: 
   postcode: ''
-  country: Egypt
+  country: 'Egypt'
 
 summary: An Oral Presentation on ISPRS Geospatial Week 2023 - Mobile Mapping Technologies4: Mobile Mapping Technologies and HD Maps.
 
