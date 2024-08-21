@@ -35,9 +35,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research enthusiasm lies in applying AI to grounded tasks. My primary goal is to develop methods for efficiently extracting key information from crowdsourced big data to serve urban science. To achieve this goal, I identified three main challenges:
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        #### Challenge 1 Multi-element Extraction
+        How can valuable information be effectively extracted from crowdsourced SVI to enhance the detection and classification of road features for autonomous vehicles.
+
+        #### Challenge 2 Multi-element Integration
+        What machine learning models and data fusion techniques can be developed to integrate diverse data sources, such as SVI and vehicle sensor data, for real-time updates.
+
+        #### Challenge 3 Multi-element Management
+        How can the proposed methods for accuracy, reliability, and scalability in various driving environments.
         
         Please reach out to collaborate 😃
     design:
