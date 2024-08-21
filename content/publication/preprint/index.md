@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Data Interaction Patterns and Contents of High Definition Maps for Autonomous Driving."
+title: "Dynamic Data Interaction Patterns and Contents of High Definition Maps for Autonomous Driving"
 authors:
 - Chun Liu
 - Wei Huang
