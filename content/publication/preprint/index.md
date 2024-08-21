@@ -27,22 +27,22 @@ abstract: (1) This document specifies the basic requirements, interaction modes,
 # Summary. An optional shortened abstract.
 summary: This is a group standard of Chinese Society for Geodesy Photogrammetry and Cartography, led by Tongji University.
 
-# tags:
-# - HD Map Information Interaction
+tags:
+- HD Map Information Interaction
 
 featured: false
 
 links:
-- name: Custom Link
-  url: https://www.csgpc.org/detail/23300.html
+# - name: Custom Link
+#   url: https://www.csgpc.org/detail/23300.html
 url_pdf: publication/preprint/standard.pdf
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: 'https://mp.weixin.qq.com/s/8VTXW9XaHA1ClKl1xKWBNA'
 url_slides: ''
 url_source: 'https://www.csgpc.org/detail/23300.html'
-url_video: '#'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
