@@ -1,5 +1,5 @@
 ---
-title: HD Map Information Interaction
+title: An Approach of High Defintion Map Information Interaction for Connected Autonomous Vehicle
 date: 2024-07-20
 external_link: https://github.com/yanjie99/HDMapII
 tags:
