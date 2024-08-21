@@ -34,7 +34,7 @@ abstract: High definition (HD) maps play a very important role in the realizatio
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - HD Map
 
 # Display this page in the Featured widget?
 featured: true
