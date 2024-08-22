@@ -132,18 +132,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Jogging
+      - name: Travel (Natural Scenery)
         description: ''
         percent: 90
         icon: jogging
-      - name: Ping Pong
+      - name: Sports (Ping Pong, Tennis, Outdoor Running)
         description: ''
         percent: 85
         icon: tabletennis
-      - name: Reading
+      - name: Reading (Science-Fiction, History, Biography)
         description: ''
         percent: 80
-        icon: books
+        icon: book
 
 languages:
   - name: English
