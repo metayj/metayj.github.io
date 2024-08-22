@@ -135,7 +135,7 @@ skills:
       - name: Jogging
         description: ''
         percent: 90
-        icon: Jogging.png
+        icon: icons/Jogging.png
       - name: Ping Pong
         description: ''
         percent: 85
