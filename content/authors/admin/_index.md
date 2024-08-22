@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:yj2yx@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/
+    url: https://x.com/ZhangThe33540
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/yanjie99
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yanjie-zhang-a93a46272/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -139,7 +139,7 @@ skills:
       - name: Ping Pong
         description: ''
         percent: 85
-        icon: cat
+        icon: tabletennis
       - name: Reading
         description: ''
         percent: 80
