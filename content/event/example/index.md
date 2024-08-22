@@ -65,3 +65,6 @@ projects:
 
 I made a presentaion about our group recently research on HD Map Information Interaction at the branch venue of [Mobile Mapping Technologies 4: Mobile Mapping Technologies and HD Maps](https://gsw2023.com/index.php/project/mmt-and-hd-maps-mobile-mapping-technologies-and-hd-maps/), on 4th September, 2023. The below figure shows the conference site at that time.
 ![alt text](image.png)
+
+During the conference, Professor [Wei Huang](https://huangweibuct.github.io/weihuang.github.io/) led the team members to attend the conference, where they engaged in in-depth discussions with scholars from around the world on topics related to human mobility patterns and high-definition maps.
+![alt text](1.jpg)
