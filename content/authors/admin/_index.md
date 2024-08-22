@@ -53,7 +53,7 @@ interests:
   - Human Mobility
 
 education:
-  - area: M.Sc. Urban Mobility
+  - area: M.Sc. of Urban Mobility, 2024
     institution: Tongji University
     date_start: 2021-09-10
     date_end: 2024-09-20
@@ -70,7 +70,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.Sc. Transportation
+  - area: BSc in Transportation, 2017
     institution: Nanjing Agriculture University
     date_start: 2017-09-10
     date_end: 2021-06-30
