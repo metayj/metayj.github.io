@@ -70,4 +70,13 @@ projects: []
 slides: example
 ---
 
+This is my first journal paper (in Chinese) supervisored by [Professor Wei Huang](https://huangweibuct.github.io/weihuang.github.io/) during my master degree. He provided the research idea and any necessary research resources involved in this project with me. Thanks a lot!🤝
+
+Both [Dr. Xintao Liu](https://geoxlab.github.io/) and Dr. Fengyuan Zhang are come from the GeoX Lab, at Hong Kong Polytechnic University. At the beginning of this research, they provided their research process on HD Maps in Hong Kong and organized one online meeting to discuss about it, which guided me to further research. Thanks a lot!🤝
+
+[Dr. Hangbin Wu](https://celiang.tongji.edu.cn/info/1301/2414.htm) and [Professor Chun liu](https://celiang.tongji.edu.cn/info/1300/2394.htm) are the organizers of SSTS lab, they gave me much more valuable advice and suggestions on group meeting in this project. Thanks a lot!🤝
+
+[Professor Shen Ying](http://jszy.whu.edu.cn/yingshen/en/index.htm) is the head of key R&D project of HD Map, from Wuhan Univeristy, and the organizer of the regular twice a month seminar meeting. He provided a lot of constructive advice with my research. Thanks a lot!🤝
+
+#### The paper now is available at [here](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166), welcome to read and communicate👏.
 
