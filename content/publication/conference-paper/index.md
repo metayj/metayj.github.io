@@ -80,5 +80,5 @@ This is an opportunity to showcase the results of our team's phased research wor
 
 The research primarily focuses on the initial exploration of high-definition map information interaction approach. The full article is now available at [here](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/861/2023/).
 ![alt text](1.png)
-Welcome to read and feel free to comminicate!
+Welcome to read and feel free to communicate!
 
