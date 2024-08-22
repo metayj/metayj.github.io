@@ -53,7 +53,7 @@ interests:
   - Human Mobility
 
 education:
-  - area: M.Sc. of Urban Mobility, 2024
+  - area: MSc of Urban Mobility, 2024
     institution: Tongji University
     date_start: 2021-09-10
     date_end: 2024-09-20
