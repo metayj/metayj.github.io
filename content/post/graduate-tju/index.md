@@ -11,15 +11,18 @@ image:
   caption: 'Image credit: [**Unsplash**]()'
 ---
 
-## Excellent members of STSS Lab
-
+## Outstanding Members of the STSS Lab
 #### Spatio-Temporal Smart Sensing Lab
+![alt text](2.jpg)
 
 
-## Patient and positive Parent
+## Memorable Experience at Huang's Lab
+![alt text](3.jpg)
 
 
-## Energetic Friends
+
+
+## My Vibrant Friends
 ![alt text](4.jpg)
 At TJU, I made friends with three remarkable individuals. **Mr. Zhefeng** is the most confident and assertive person I have ever met. Whenever I communicate with him, I absorb the positive energy he radiates, and I often find myself shedding negative emotions after our conversations. In summary, he is someone who inspires my motivation and boosts my self-confidence.
 
@@ -29,4 +32,8 @@ The last, but certainly not least, person I met is **Haoran**, a stylish and han
 
 As time flies by, with three years feeling like just a moment, it’s now time to bid farewell to my amazing friends. Let us look forward to reuniting in our next golden era.
 
-## Beloved Girl Friend
+## Beloved Girlfriend
+I am very fortunate to have found my girlfriend during my most uncertain times on August 8, 2021. I am grateful for her constant encouragement and companionship. I love you deeply, and may God bless us.
+
+## The Most Patient and Positive Parent
+I am deeply grateful for my parents' immense love and support over the past years. I will cherish them forever and send my best wishes to them.
