@@ -14,11 +14,19 @@ image:
 ## Outstanding Members of the STSS Lab
 #### Spatio-Temporal Smart Sensing Lab
 ![alt text](2.jpg)
+Our STSS Lab is a big family, consisting of nearly 50 team members. It was here that I met my master’s supervisor, [**Professor Chun Liu**](https://celiang.tongji.edu.cn/info/1300/2394.htm), a distinguished scientist in the field of remote sensing and photogrammetry. Thanks to his introduction to [**Professor Wei Huang**](https://huangweibuct.github.io/weihuang.github.io/), I had the honor of being the first student in Professor Huang’s academic career.
 
+In this vibrant group, I’ve had the pleasure of meeting many exceptional individuals, including **Mr. Akram**, **Ms. Jing Zhang**, **Ms. Ting Yu**, and **Ms. Weihua Huan**. They are my senior colleagues and have been incredibly supportive throughout my studies. I am very grateful for their guidance and camaraderie during my master’s degree.
+
+I wish the STSS Lab continued success and growth.
 
 ## Memorable Experience at Huang's Lab
 ![alt text](3.jpg)
+Huang's lab is a vibrant and energetic group, characterized by a relaxed and open research atmosphere. Over the course of two years, our team has grown by eleven members. Here, I had the privilege of working closely with my research advisor, [**Professor Wei Huang**](https://huangweibuct.github.io/weihuang.github.io/), who provided invaluable guidance on both my studies and career plans. I am deeply appreciative of his support.
 
+During my time there, I also had the pleasure of meeting many dynamic and enthusiastic researchers, including **Ms. Zhaoyang**, **Ms. Huanying**, **Mr. Pengxiang**, **Mr. Chenghu**, and everyone who joined our team during my master’s program. It was a pleasure to work with all of you. 
+
+I wish Huang's lab continued success and create many more valuable papers.
 
 
 
