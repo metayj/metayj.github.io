@@ -70,9 +70,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-    button:  
-      text: 'Read PPT'
-      url: 'https://example.com'
+
   - area: BSc in Transportation, 2021
     institution: Nanjing Agriculture University
     date_start: 2017-09-10
