@@ -70,6 +70,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+    button:  
       text: 'Read PPT'
       url: 'https://example.com'
   - area: BSc in Transportation, 2021
