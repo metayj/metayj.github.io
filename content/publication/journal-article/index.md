@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: publication/journal-article/paper.pdf
+url_pdf: 'https://drive.google.com/file/d/1hc_6Vh2o5xUhWGajD7PUEHu8gSEYEyxL/view?usp=drive_link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
