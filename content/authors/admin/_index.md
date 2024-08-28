@@ -69,7 +69,7 @@ education:
       Thesis: _A high-definition map data information interaction method for assisted autonomous driving_. Supervised by Prof. Wei Huang and Prof. Chun Liu.
     button:
       text: 'Master's Defense PPT'
-      url: uploads/Master's defense PPT, Yanjie.pdf
+      url: static/uploads/defense.pdf
   - area: BSc in Transportation, 2021
     institution: Nanjing Agriculture University
     date_start: 2017-09-10
