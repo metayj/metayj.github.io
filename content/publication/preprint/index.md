@@ -35,7 +35,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: https://www.csgpc.org/detail/23300.html
-url_pdf: publication/preprint/standard.pdf
+url_pdf: 'https://drive.google.com/file/d/1wHteULbF88sxiBkvwGG9DHz16j1MKtwB/view?usp=drive_link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
