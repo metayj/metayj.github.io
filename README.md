@@ -72,9 +72,6 @@ We utilized a trained deep learning model to address the **Route Planning** prob
 - Teaching Assistant - Advanced Research and Practice Course (Undergraduate Course), Fall 2023.
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=cjcIbwVZHF1YxSrvScUY1USs5bajX83Qnp9slKFlT6g'></script>
-
-
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 
