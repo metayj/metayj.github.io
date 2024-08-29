@@ -143,7 +143,7 @@ skills:
       - name: 📚 Reading (Science-Fiction, History, Biography)
         description: ''
         percent: 80
-        icon: book
+        icon: 
 
 languages:
   - name: English
