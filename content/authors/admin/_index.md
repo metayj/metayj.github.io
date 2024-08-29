@@ -132,15 +132,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 🏕 Travel (Natural Scenery)
+      - name: · 🏕 Travel (Natural Scenery)
         description: ''
         percent: 90
         icon: 
-      - name: Sports (🏓Ping Pong, 🎾Tennis, 🏃‍Outdoor Running)
+      - name: · Sports (🏓Ping Pong, 🎾Tennis, 🏃‍Outdoor Running)
         description: ''
         percent: 85
         icon: 
-      - name: 📚 Reading (Science-Fiction, History, Biography)
+      - name: · 📚 Reading (Science-Fiction, History, Biography)
         description: ''
         percent: 80
         icon: 
