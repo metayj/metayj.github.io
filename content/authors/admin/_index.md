@@ -119,7 +119,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: python.png
       - name: Matlab
         description: ''
         percent: 80
@@ -136,7 +136,7 @@ skills:
         description: ''
         percent: 90
         icon: 
-      - name: · Sports (🏓Ping Pong, 🎾Tennis, 🏃‍Outdoor Running)
+      - name: · Sports (🏓 🎾 🏃)
         description: ''
         percent: 85
         icon: 
