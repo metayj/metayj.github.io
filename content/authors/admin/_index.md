@@ -135,12 +135,12 @@ skills:
       - name: 🏕 Travel (Natural Scenery)
         description: ''
         percent: 90
-        icon: jogging
-      - name: Sports (Ping Pong, Tennis, Outdoor Running)
+        icon: 
+      - name: Sports (🏓Ping Pong, 🎾Tennis, 🏃‍Outdoor Running)
         description: ''
         percent: 85
-        icon: tabletennis
-      - name: Reading (Science-Fiction, History, Biography)
+        icon: 
+      - name: 📚 Reading (Science-Fiction, History, Biography)
         description: ''
         percent: 80
         icon: book
