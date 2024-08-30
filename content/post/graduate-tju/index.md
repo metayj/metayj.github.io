@@ -1,7 +1,7 @@
 ---
 title: 🎉 Graduated from Tongji University and received the M.Sc. in Transportation Engineering.
 summary: Graduation ceremony of the College of Transportation Engineering
-date: 2024-06-21
+date: 2024-08-26
 authors:
   - admin
 tags:
