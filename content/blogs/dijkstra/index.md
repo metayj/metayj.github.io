@@ -1,12 +1,11 @@
 ---
 title: The classical algorithm Dijkstra has been shown to be universally optimal
-summary: After nearly 70 years, the classic algorithm used to solve the shortest path problem, Dijkstra, now has been proved to be universal optimality.
-date: 2024-10-25
+summary: Dijkstra
+date: 2024-10-27
 type: docs
 math: false
 tags:
-  - path prblem
-  - dijkstra
+  - path problem
 image:
   caption: 'Image source: Quantamagzine'
 ---
@@ -14,4 +13,7 @@ image:
 
 
 *Dijkstra’s algorithm was long thought to be the most efficient way to find a graph’s best routes. Researchers have now proved that it’s “universally optimal.”*
+
+![alt text](featured-1.gif)Image source: Quantamagzine
+
 
