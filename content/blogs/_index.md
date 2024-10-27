@@ -19,5 +19,5 @@ sections:
           - blogs
     design:
       view: article-grid
-      rows: 2
+      columns: 1
 ---
