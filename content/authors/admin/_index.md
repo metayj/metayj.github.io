@@ -58,7 +58,7 @@ education:
     date_start: 2021-09-10
     date_end: 2024-08-26
     summary: |
-      GPA: 4.52/5.0
+
 
       Courses included:
       - Travel behavior analysis
@@ -75,7 +75,6 @@ education:
     date_start: 2017-09-10
     date_end: 2021-06-30
     summary: |
-      GPA: 3.26/4.5
 
       Courses included:
       - Advanced mathematics
