@@ -51,6 +51,29 @@ The method of Dijkstra algorithm to find the shotest route can be divided into f
 
 Ultimately, Dijkstra's algorithm can quickly find the shortest path from the starting point to all other nodes in the network.
 
+### Here's a simple overview of Dijkstra's Algorithm in pseudocode
+```
+function Dijkstra(Graph, source):
+    create vertex set Q
+    for each vertex v in Graph:
+        dist[v] ← INFINITY
+        prev[v] ← UNDEFINED
+        add v to Q
+    dist[source] ← 0
+
+    while Q is not empty:
+        u ← vertex in Q with min dist[u]
+        remove u from Q
+        
+        for each neighbor v of u:           // only v that are still in Q
+            alt ← dist[u] + length(u, v)
+            if alt < dist[v]:               // A shorter path to v has been found
+                dist[v] ← alt 
+                prev[v] ← u
+
+    return dist[], prev[]
+```
+
 ### What is the new breakthrough?
 In the original Dijkstra paper, a simple and crucial data structure, called [**Heap**](#r-3), was used, which left room for improvement by later scientists. 
 
@@ -61,6 +84,7 @@ In a certain sense, this version of Dijkstra's algorithm has been arguably the b
 However， if the ability to quickly access recent inserts is added to the heap designed in 1984, the efficiency of the algorithm can be significantly improved. To do this, researchers propose a new heap data structure with special "Working Set Property".
 
 The so-called "Working Set Property" means that the heap can take full advantage of the locality of the operation, so that the most recently inserted element is preferentially processed, reducing the cost of extracting the smallest elements.
+
 
 Reference
 
