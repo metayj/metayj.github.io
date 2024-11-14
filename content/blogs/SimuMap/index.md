@@ -1,5 +1,5 @@
 ---
-title: SimuMap 3D: A new Autonomous Driving Data Acquisition Platform
+title: SimuMap 3D, A new Autonomous Driving Data Acquisition Platform
 summary: Easily learn SimuMap!
 date: 2024-11-14
 type: docs
@@ -98,6 +98,8 @@ Here is a basic example of a code script for controlling a vehicle using UDP com
         # 关闭套接字
         udp_client.close()
     ```
+
+
 Before running this code, you need install the [`socket`](https://docs.python.org/3/library/socket.html) library, which enables communication based on UDP.
 
 In my code, **metaX_pb2** is a Protocol Buffer 3 library tailored for SimuMap. The detailed protocol content is as follows:
