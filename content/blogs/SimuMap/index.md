@@ -10,13 +10,13 @@ image:
   caption: 'Iamge Soure'
 ---
 
-#### Notice: This project is proposed by an influencer named "Unity3D Think" (Wechat 公众号)
+*Notice: This project was proposed by an influencer known as "Unity3D Think" (WeChat public account)*
 
 ## Demo
 
 This is a simple demonstration of SimuMap. We can simulate the movement of the red car through an API using various programming languages (such as C++, Python, etc.). Meanwhile, we can retrieve real-time scenario information and render it as a real-time Bird's Eye View (BEV) perspective demo.
 
-
+    {{</* video src="newversion480p.mp4" controls="yes" */>}}
 
 
 ## Introduction
