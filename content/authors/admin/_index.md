@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+role: Master's Student in Urban Mobility
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:yj2yx@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/ZhangThe33540
+    url: https://x.com/YanjieZhang2024
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/yanjie214/
   - icon: brands/github
     url: https://github.com/yanjie99
   - icon: brands/linkedin
