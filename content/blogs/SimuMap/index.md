@@ -16,7 +16,7 @@ image:
 
 This is a simple demonstration of SimuMap. We can simulate the movement of the red car through an API using various programming languages (such as C++, Python, etc.). Meanwhile, we can retrieve real-time scenario information and render it as a real-time Bird's Eye View (BEV) perspective demo.
 
-[![Watch the video](https://img.youtube.com/vi/uWJD2UlZEeg/maxresdefault.jpg)](https://youtu.be/WhGfVALSdtw)
+[![Watch the video](20241114222717.png)](https://youtu.be/WhGfVALSdtw)
 
 
 ## Introduction
