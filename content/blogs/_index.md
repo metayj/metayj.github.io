@@ -1,6 +1,6 @@
 ---
 title: Blogs
-summary: My exploration
+summary: Exploration Journey
 type: landing
 
 cascade:
