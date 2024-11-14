@@ -1,13 +1,13 @@
 ---
 title: SimuMap 3D: A new Autonomous Driving Data Acquisition Platform
 summary: Easily learn SimuMap!
-date: 2024-11-13
+date: 2024-11-14
 type: docs
 math: false
 tags:
   - Autonomous Driving Simulator
 image:
-  caption: ''
+  caption: 'Iamge Soure'
 ---
 
 #### Notice: This project is proposed by an influencer named "Unity3D Think" (Wechat 公众号)
