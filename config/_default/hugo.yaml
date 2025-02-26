@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Yanjie Zhang
+title: Hugo Academic CV Theme
 # Website URL
-baseURL: 'https://metayj.github.io/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
@@ -25,7 +25,8 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

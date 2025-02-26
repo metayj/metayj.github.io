@@ -1,29 +1,28 @@
 ---
-title: Oral presentation
+title: Example Talk
 
-event: ISPRE Geospatial Week 2023
-event_url: https://gsw2023.com/
+event: Hugo Blox Builder Conference
+event_url: https://example.org
 
-location: Cairo, Egypt
+location: Hugo Blox Builder HQ
 address:
-  street: InterContinental Cairo Semiramis
-  city: Cairo
-  region: 
-  postcode: ''
-  country: Egypt
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: An Oral Presentation on ISPRS Geospatial Week 2023, Mobile Mapping Technologies4, Mobile Mapping Technologies and HD Maps.
-
-abstract: High definition (HD) maps play a very important role in the realization of autonomous driving technology. It assists self-driving vehicles to efficiently and safely complete a series of driving decisions and route planning by virtue of having most of the accurate and reliable prior information in the road environment. With the continuous change of technology, there are higher requirements for the accuracy, richness and freshness of the information stored in the HD map, so as to assist the practical application of automatic driving technology. However, current research related to HD maps mainly focuses on static information in the road environment. Since there is a large amount of complex, variable and uncertain dynamic information in the road environment, it can be used as prior knowledge for self-driving to make better decisions. Therefore, the research focus of this paper is on the dynamic information. We propose to use HD map as an information system - high definition map information system (HDMIS) - to assist autonomous driving vehicles. We design the specific content of dynamic information in the HDMIS, and develop an information interaction approach based on the vehicle end of the self-driving car and the HDMIS cloud as the interactive subject of dynamic information. In the experiment, we design and build three types of specific traffic scenarios on the simulation platform, and verify the effectiveness of the interaction approach by using the database to perform information interaction between different ports. The results show that our interaction approach can meet the storage and release of dynamic information by HDMIS to a certain extent, and can provide a large amount of dynamic information for autonomous vehicles to help them complete subsequent driving decisions and planning.
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-04T13:00:00Z'
-date_end: '2023-09-04T16:00:00Z'
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-9-20T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -34,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**]()'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:
@@ -42,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com'
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -63,8 +62,14 @@ projects:
   - example
 ---
 
-I made a presentaion about our group recently research on HD Map Information Interaction at the branch venue of [Mobile Mapping Technologies 4: Mobile Mapping Technologies and HD Maps](https://gsw2023.com/index.php/project/mmt-and-hd-maps-mobile-mapping-technologies-and-hd-maps/), on 4th September, 2023. The below figure shows the conference site at that time.
-![alt text](image.png)
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
 
-During the conference, Professor [Wei Huang](https://huangweibuct.github.io/weihuang.github.io/) led the team members to attend the conference, where they engaged in in-depth discussions with scholars from around the world on topics related to human mobility patterns and high-definition maps.
-![alt text](1.jpg)
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
