@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'An Approach of High Definition Map Information Interaction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Wei Huang
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-09-10T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-10-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +25,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *ISPRS Geospatial Week 2023*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: High definition (HD) maps play a very important role in the realization of autonomous driving technology. It assists self-driving vehicles to efficiently and safely complete a series of driving decisions and route planning by virtue of having most of the accurate and reliable prior information in the road environment. With the continuous change of technology, there are higher requirements for the accuracy, richness and freshness of the information stored in the HD map, so as to assist the practical application of automatic driving technology. However, current research related to HD maps mainly focuses on static information in the road environment. Since there is a large amount of complex, variable and uncertain dynamic information in the road environment, it can be used as prior knowledge for self-driving to make better decisions. Therefore, the research focus of this paper is on the dynamic information. We propose to use HD map as an information system - high definition map information system (HDMIS) - to assist autonomous driving vehicles. We design the specific content of dynamic information in the HDMIS, and develop an information interaction approach based on the vehicle end of the self-driving car and the HDMIS cloud as the interactive subject of dynamic information. In the experiment, we design and build three types of specific traffic scenarios on the simulation platform, and verify the effectiveness of the interaction approach by using the database to perform information interaction between different ports. The results show that our interaction approach can meet the storage and release of dynamic information by HDMIS to a certain extent, and can provide a large amount of dynamic information for autonomous vehicles to help them complete subsequent driving decisions and planning.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - HD Map Information Interaction
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +44,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://drive.google.com/file/d/1aQVW__4JQsK73AfmKsmtJqyyj4Mn7jjt/view?usp=drive_link'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/861/2023/'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**ISPRS Geospatial Week 2023**](https://www.space4water.org/events/isprs-geospatial-week-2023)'
   focal_point: ''
   preview_only: false
 
@@ -76,12 +76,9 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+This is an opportunity to showcase the results of our team's phased research work. We first submitted an abstract to participate in this conference, and after the conference, we submitted the full paper. 
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+The research primarily focuses on the initial exploration of high-definition map information interaction approach. The full article is now available at [here](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/861/2023/).
+![alt text](1.png)
+Welcome to read and feel free to communicate!
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
