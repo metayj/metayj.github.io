@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**]()'
+  caption: 'Image credit: [**Spatio-Temporal Smart Sensing Lab**](https://mp.weixin.qq.com/s/8VTXW9XaHA1ClKl1xKWBNA)'
   focal_point: ""
   preview_only: false
 

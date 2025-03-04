@@ -8,7 +8,7 @@ tags:
   - Graduation
   - Master Degree
 image:
-  caption: 'Image credit: [**Unsplash**]()'
+  caption: 'Image credit: [**METAYJ**]()'
 ---
 
 ## Outstanding Members of the STSS Lab

@@ -1,12 +1,12 @@
 ---
-title: 🤔 How should we face the approaching future, living in the artificial intelligence era? 
+title: How should we face the approaching future, living in the artificial intelligence era? 
 summary: Personal opinions for the developement of technology.
 date: 2024-07-22
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**]()'
+  caption: 'Image credit: [**METAYJ**]()'
 
 authors:
   - admin
