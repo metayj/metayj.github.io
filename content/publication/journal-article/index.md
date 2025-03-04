@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](http://ch.whu.edu.cn/indexen.htm)'
+  caption: 'Image credit: [**GEOMATICS AND INFORMATION SCIENCE OF WUHAN UNIVERSITY**](http://ch.whu.edu.cn/indexen.htm)'
   focal_point: ""
   preview_only: false
 
