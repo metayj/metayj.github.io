@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master's Student in Urban Mobility
+role: MSc Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
