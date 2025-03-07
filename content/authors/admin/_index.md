@@ -184,8 +184,8 @@ awards:
 
 ## About Me
 
-I am currently an research assistant at [Tongji University](https://en.tongji.edu.cn/p/#/), having obtained a Master of Science degree in Transportation Engineering from the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm).
+I am an incoming PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/), where I will be conducting research on GeoAI and Urban Science.
+
+I obtained my Master of Science degree in Transportation Engineering from the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn/p/#/). My research focus on the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction. [*_Sep,2021-Sep,2024_*]
 
 Before my journey at TJU, I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agriculture University](https://english.njau.edu.cn/), where I obtained my **Bachelor's degree** of Engineering in Transportation. During my years there, I had the privilege of exploring the Route Planning Problems using deeplearning algorithms, which contributed to my bachelor's thesis and earned a nomination for Best Thesis. [*_Sep,2017-Jul,2021_*]
-
-At TJU, the Urban Mobility Institute is an interdisciplinary institute. With my background in Transportation, and under the guidance of several professors from the [College of Surveying and Geo-informatics](https://celiang.tongji.edu.cn/english/Home.htm) at Tongji University and the [School of Resource and Environmental Sciences](https://sres.whu.edu.cn/English/Home.htm) at [Wuhan University](https://en.whu.edu.cn/), I was responsible for tackling and completing key research components of a critical R&D project. This experience led me to shift my focus to the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction. [*_Sep,2021-Sep,2024_*]
