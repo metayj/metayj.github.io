@@ -181,11 +181,10 @@ awards:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
 ## About Me
 
-### I am an incoming PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/), where I will be conducting research on GeoAI and Urban Science.
+I am an incoming PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/), where I will be conducting research on GeoAI and Urban Science.
 
-### I obtained my Master of Science degree in Transportation Engineering from the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn/p/#/). My research focus on the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction. [*_Sep,2021-Sep,2024_*]
+I obtained my Master of Science degree in Transportation Engineering from the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn/p/#/). My research focus on the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction. [*_Sep,2021-Sep,2024_*]
 
-### Before my journey at TJU, I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agriculture University](https://english.njau.edu.cn/), where I obtained my **Bachelor's degree** of Engineering in Transportation. During my years there, I had the privilege of exploring the Route Planning Problems using deeplearning algorithms, which contributed to my bachelor's thesis and earned a nomination for Best Thesis. [*_Sep,2017-Jul,2021_*]
+Before my journey at TJU, I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agriculture University](https://english.njau.edu.cn/), where I obtained my **Bachelor's degree** of Engineering in Transportation. During my years there, I had the privilege of exploring the Route Planning Problems using deeplearning algorithms, which contributed to my bachelor's thesis and earned a nomination for Best Thesis. [*_Sep,2017-Jul,2021_*]
