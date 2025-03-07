@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MSc Graduate
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Urban Mobility Institute, Tongji University
-    url: https://en.tongji.edu.cn/p/#/
+  - name: Geography, National University of Singapore
+    url: https://fass.nus.edu.sg/geog/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
