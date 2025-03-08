@@ -3,7 +3,7 @@
 title: Yanjie Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: 张焱杰
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Yanjie
