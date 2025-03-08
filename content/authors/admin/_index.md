@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanjie Zhang
+title: YANJIE ZHANG
 
 # Name pronunciation (optional)
 name_pronunciation:
