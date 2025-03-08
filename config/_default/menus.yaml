@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: PUBLICATIONS
     url: /#papers
-    weight: 11
+    weight: 12
   - name: TALKS
     url: /#talks
     weight: 30
   - name: NEWS
     url: /#news
-    weight: 12
+    weight: 11
   - name: EXPERIENCE
     url: experience/
     weight: 13
