@@ -6,8 +6,8 @@ title: Yanjie Zhang
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: YANJIE
-last_name: ZHANG
+first_name: Yanjie
+last_name: Zhang
 
 # Status emoji
 status:
