@@ -3,7 +3,7 @@
 title: Yanjie Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 张焱杰
 
 # Full name (for SEO)
 first_name: Yanjie
@@ -181,7 +181,7 @@ awards:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-## About Me
+## ABOUT ME
 
 I am an incoming PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/), where I will be conducting research on GeoAI and Urban Science.
 
