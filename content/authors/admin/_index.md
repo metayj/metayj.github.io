@@ -1,13 +1,13 @@
 ---
 # Display name
-title: YANJIE ZHANG
+title: Yanjie Zhang
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Yanjie
-last_name: Zhang
+first_name: YANJIE
+last_name: ZHANG
 
 # Status emoji
 status:
