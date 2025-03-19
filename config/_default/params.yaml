@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Complacency Finds No Harbor Here, My Aspirations Chart Courses Beyond the Celestial Horizon. Yanjie Zhang.'
+    notice: '© {year} YANJIE ZHANG.'
     license:
       enable: true
       allow_derivatives: false
