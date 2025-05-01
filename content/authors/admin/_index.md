@@ -183,7 +183,7 @@ awards:
 ---
 ## ABOUT ME
 
-I am an incoming PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/), where I will be conducting research on GeoAI and Urban Science.
+I am a PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/).
 
 I obtained my Master of Science degree in Transportation Engineering from the [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation Engineering](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn/p/#/). My research focus on the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction. [*_Sep,2021-Sep,2024_*]
 
