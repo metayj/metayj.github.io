@@ -183,8 +183,11 @@ awards:
 ---
 ## ABOUT ME
 
-*_[Aug,2025 - Present]_*I am a PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/).
+*_Aug,2025 - Present_*
+I am a PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/).
 
-*_[Sep,2021-Sep,2024]_*I obtained my **Master of Science Degree** in Transportation Engineering from [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn/p/#/). My research based on the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction. [*_Sep,2021-Sep,2024_*]
+*_Sep,2021-Sep,2024_*
+I obtained my **Master of Science Degree** in Transportation Engineering from [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn/p/#/). My research based on the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction.
 
-*_[Sep,2017-Jul,2021]_* I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agricultural University](https://english.njau.edu.cn/), where I obtained my **Bachelor Degree** of Engineering in Transportation.
+*_Sep,2017-Jul,2021_*
+I laid my academic foundations at the [College of Engineering](https://coe.njau.edu.cn/index.htm#) of [Nanjing Agricultural University](https://english.njau.edu.cn/), where I obtained my **Bachelor Degree** of Engineering in Transportation.
