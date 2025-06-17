@@ -41,7 +41,7 @@ The last, but certainly not least, person I met is **Haoran**, a stylish and han
 As time flies by, with three years feeling like just a moment, it’s now time to bid farewell to my amazing friends. Let us look forward to reuniting in our next golden era.
 
 ## Beloved Girlfriend
-I am very fortunate to have found my girlfriend during my most uncertain times on August 8, 2021. I am grateful for her constant encouragement and companionship. I love you deeply, and may God bless us.
+I am very fortunate to have found my girlfriend, **Lyu Yixian**, during my most uncertain times on August 8, 2021. I am grateful for her constant encouragement and companionship. I love you deeply, and may God bless us.
 
 ## The Most Patient and Positive Parent
 I am deeply grateful for my parents' immense love and support over the past years. I will cherish them forever and send my best wishes to them.
