@@ -1,6 +1,6 @@
 ---
-title: A warmful welcome in NUS 
-summary: 
+title: A warm greeting from NUS 
+summary: Week0 | Orientation Week
 date: 2025-08-08
 
 # Featured image
@@ -30,4 +30,4 @@ Here are a few pictures of my awesome captures from my enrolment week!
 
 ![alt text](20250815150548_20.jpg)
 ![alt text](20250815150542_19.jpg)
-![alt text](20250815150542_18.jpg)
+![alt text](20250815150511_18.jpg)
