@@ -47,10 +47,10 @@ profiles:
     url: https://orcid.org/0009-0002-3627-1104
 
 interests:
+  - GIS
+  - GeoAI
   - High-Definition Map
   - Smart City
-  - Artificial Intelligence
-  - Human Mobility
 
 education:
   - area: MSc of Urban Mobility, 2024
@@ -147,7 +147,7 @@ skills:
 languages:
   - name: English
     percent: 80
-  - name: Chinese
+  - name: Chinese(Mandarin)
     percent: 100
 
 
@@ -184,7 +184,7 @@ awards:
 ## ABOUT ME
 
 #### _2025-Present_
-I am a PhD student at the [Department of Geography](https://fass.nus.edu.sg/geog/) of the [National University of Singapore (NUS)](https://www.nus.edu.sg/).
+I am a PhD student supervised by [Dr. Yan](https://discovery.nus.edu.sg/19079-yingwei-yan) at the [GIS Unit](https://nusgis.org/), affiliated with the [Department of Geography](https://fass.nus.edu.sg/geog/) at the [National University of Singapore (NUS)](https://www.nus.edu.sg/). My current research focuses on leveraging crowdsourced data to detect and classify road features, with applications in automated vehicles and smart city development.
 
 #### _2021-2024_
 I obtained my **Master of Science Degree** in Transportation Engineering from [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the [College of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn/p/#/). My research based on the field of high-definition maps, focusing on HD map modeling, dynamic information organization and management, and information interaction.
