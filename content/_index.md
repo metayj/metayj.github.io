@@ -19,7 +19,7 @@ sections:
           - text: Download CV
             url: uploads/resume.pdf
           - text: State of Purpose
-            url: uplpads/SoP.pdf 
+            url: uploads/SoP.pdf 
     
     design:
       css_class: dark
