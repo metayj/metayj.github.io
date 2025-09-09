@@ -47,10 +47,9 @@ profiles:
     url: https://orcid.org/0009-0002-3627-1104
 
 interests:
-  - GIS
+  - GIScience
   - GeoAI
-  - High-Definition Map
-  - Smart City
+  - Data-driven Digital City
 
 education:
   - area: MSc of Urban Mobility, 2024
@@ -146,9 +145,9 @@ skills:
 
 languages:
   - name: English
-    percent: 80
-  - name: Chinese(Mandarin)
-    percent: 100
+    percent: 85
+  - name: Mandarin
+    percent: 95
 
 
 # Awards.
@@ -156,6 +155,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: NUS Research Scholarship 
+    date: '2025-08-03'
+    awarder: National University of Singapore
   - title: Postgraduate Admission Scholarship 
     date: '2021-09-01'
     awarder: Tongji University
