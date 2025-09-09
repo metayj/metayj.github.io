@@ -13,13 +13,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: |
+        <a class="btn btn-primary" href="uploads/resume.pdf">Download CV</a>
+        <a class="btn btn-outline-primary" href="uploads/sop.pdf">Statement of Purpose</a>
       # Show a call-to-action button under your biography? (optional)
-      buttons: 
-          - text: Download CV
-            url: uploads/resume.pdf
-          - text: State of Purpose
-            url: uploads/SoP.pdf 
+#      buttons: 
+#          text: Download CV
+#          url: uploads/resume.pdf
     
     design:
       css_class: dark
