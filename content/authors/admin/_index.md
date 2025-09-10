@@ -185,7 +185,7 @@ awards:
 ---
 ## ABOUT ME
 
-#### _2025-Present_
+#### <SPAN STYLE="color:orange">_2025-Present_</SPAN>
 I am a PhD student supervised by [Dr. Yan](https://discovery.nus.edu.sg/19079-yingwei-yan) at the [Department of Geography](https://fass.nus.edu.sg/geog/), [National University of Singapore (NUS)](https://www.nus.edu.sg/). My current research focuses on leveraging crowdsourced data to detect and classify road features, with applications in automated vehicles and smart city development. [`Statement of Purpose`](uploads/SoP.pdf)
 
 #### _2021-2024_
