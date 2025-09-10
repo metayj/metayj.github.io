@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yanjie Zhang
+title: YANJIE ZHANG
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: 张焱杰
 
 # Full name (for SEO)
 first_name: Yanjie
