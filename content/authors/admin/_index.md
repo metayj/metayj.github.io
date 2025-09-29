@@ -1,7 +1,6 @@
 ---
 # Display name
-- title: Yanjie Zhang 张焱杰
-  url: https://fass.nus.edu.sg/geog/people/zhang-yanjie/
+title: Yanjie Zhang 张焱杰
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -184,7 +183,7 @@ awards:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-## ABOUT ME
+## [ABOUT ME](https://fass.nus.edu.sg/geog/people/zhang-yanjie/)
 
 #### <SPAN STYLE="color:green">***2025-Present***</SPAN>
 I am a PhD student supervised by [Dr. Yingwei Yan](https://discovery.nus.edu.sg/19079-yingwei-yan) and [Dr. Hao Li](https://discovery.nus.edu.sg/28938-hao-li) at the [Department of Geography](https://fass.nus.edu.sg/geog/), National University of Singapore. My current research focuses on leveraging crowdsourced data to detect and classify road features, with applications in automated vehicles and smart city development. [Statement of Purpose](uploads/SoP.pdf)
