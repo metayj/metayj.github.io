@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Yanjie Zhang 张焱杰
-url: https://fass.nus.edu.sg/geog/people/zhang-yanjie/
+- title: Yanjie Zhang 张焱杰
+  url: https://fass.nus.edu.sg/geog/people/zhang-yanjie/
 
 # Name pronunciation (optional)
 name_pronunciation: 
