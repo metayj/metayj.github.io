@@ -188,7 +188,7 @@ awards:
 #### <SPAN STYLE="color:green">***2025-Present***</SPAN>
 I am a PhD student supervised by [Dr. Yingwei Yan](https://discovery.nus.edu.sg/19079-yingwei-yan) and [Dr. Hao Li](https://discovery.nus.edu.sg/28938-hao-li) at the [Department of Geography](https://fass.nus.edu.sg/geog/), National University of Singapore. My current research focuses on leveraging crowdsourced data to detect and classify road features, with applications in automated vehicles and smart city development. 
 
-[`_Statement of Purpose_`](uploads/SoP.pdf)
+[`_STATEMENT OF PURPOSE_`](uploads/SoP.pdf)
 
 #### <SPAN STYLE="color:green">***2021-2024***</SPAN>
 I obtained my **Master of Science Degree** in Transportation Engineering from [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the College of Transportation at [Tongji University](https://en.tongji.edu.cn/p/#/). Under the supervision of [Professor Wei Huang](https://huangweibuct.github.io/weihuang.github.io/) and **Professor Chun Liu**, my research focused on high-definition maps, particularly HD map modeling, dynamic information organization and management, and information interaction.
