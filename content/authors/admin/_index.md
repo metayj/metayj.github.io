@@ -191,7 +191,7 @@ I am a PhD student supervised by [Dr. Yingwei Yan](https://discovery.nus.edu.sg/
 [`_STATEMENT OF PURPOSE_`](uploads/SoP.pdf)
 
 #### <SPAN STYLE="color:green">***2021-2024***</SPAN>
-I obtained my Master of Science Degree in Transportation Engineering from [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the College of Transportation at [Tongji University](https://en.tongji.edu.cn/p/#/). Under the supervision of [Professor Wei Huang](https://huangweibuct.github.io/weihuang.github.io/) and Professor Chun Liu, my research focused on high-definition maps, particularly HD map modeling, dynamic information organization and management, and information interaction.
+I obtained my Master of Science Degree in Transportation Engineering from [Urban Mobility Institute](https://umi.tongji.edu.cn/en/Homepage.htm) of the College of Transportation at [Tongji University](https://en.tongji.edu.cn/p/#/). Under the supervision of [Prof. Wei Huang](https://huangweibuct.github.io/weihuang.github.io/) and Prof. Chun Liu, my research focused on high-definition maps, particularly HD map modeling, dynamic information organization and management, and information interaction.
 
 #### <SPAN STYLE="color:green">***2017-2021***</SPAN>
 I laid my academic foundations at the College of Engineering of [Nanjing Agricultural University](https://english.njau.edu.cn/), where I obtained my Bachelor Degree of Engineering in Transportation.
