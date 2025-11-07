@@ -70,7 +70,7 @@ education:
       text: 'Thesis Defense Slides'
       url: 'https://drive.google.com/file/d/1LO8gstbMqcZKxuWtlLfl3fHtZreZpaV6/view?usp=drive_link'
   - area: BSc in Transportation, 2021
-    institution: Nanjing Agriculture University, Nanjing, China
+    institution: Nanjing Agricultural University, Nanjing, China
     date_start: 2017-09-10
     date_end: 2021-06-30
     summary: |
