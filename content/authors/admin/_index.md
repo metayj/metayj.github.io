@@ -33,14 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yanjie.zhang@u.nus.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/YanjieZhang2024
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yanjie-zhang-a38911382/
+  #- icon: brands/x
+  #  url: https://x.com/YanjieZhang2024
   #- icon: brands/instagram
     #url: https://www.instagram.com/yanjie214/
   - icon: brands/github
     url: https://github.com/yanjie99
   #- icon: brands/linkedin
-  #  url: https://www.linkedin.com/in/yanjie-zhang-a93a46272/
+  #  url: https://www.linkedin.com/in/yanjie-zhang-a38911382/
   #- icon: academicons/google-scholar
   # url: https://scholar.google.com/
   - icon: academicons/orcid
