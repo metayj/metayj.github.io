@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Less Interests, More Interest. Yanjie Zhang.'
+    notice: '© {year} YANJIE ZHANG'
     license:
       enable: true
       allow_derivatives: false
