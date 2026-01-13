@@ -47,7 +47,6 @@ sections:
         #### 🧗Challenge 3 Multi-element Management
         How can the proposed methods for accuracy, reliability, and scalability in various driving environments.
         
-        Please reach out to collaborate and make the future city more intelligent, sustainable and eco-friendly 💪🏻💪🏽💪🏿💪🦾
     design:
       columns: '1'
   - block: collection
